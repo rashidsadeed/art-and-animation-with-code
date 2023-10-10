@@ -4,7 +4,7 @@ A creatiev coding project, making designs and animations using javascript. There
 *****To Run the scripts******
 in your command line:
 
-# run with 'npx' to make sure you get the local CLI
+ **run with 'npx' to make sure you get the local CLI
 > npx canvas-sketch-cli <file_name.js>
 
 *****iMPORTANT*******
